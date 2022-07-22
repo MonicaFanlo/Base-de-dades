@@ -1,7 +1,0 @@
-person_name	movie_title	rols_diferents
-Alfred Joseph Hitchcock	Psycho	3
-Daniel Sanchez Arevalo	La Gran Familia Española	2
-Francis Ford Coppola	Apocalypse Now	3
-George Lucas	Indiana Jones and the Temple of Doom	2
-Mel Gibson	Braveheart	2
-Steven Spielberg	The Terminal	2
