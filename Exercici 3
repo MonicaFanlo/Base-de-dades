@@ -1,0 +1,6 @@
+SELECT tb_genre.genre_name
+,COUNT(tb_movie.movie_id) AS num_films
+FROM tb_movie
+RIGHT JOIN tb_genre ON tb_movie.movie_genre_id=tb_genre.genre_id
+GROUP BY tb_genre.genre_name
+ORDER BY num_films DESC;
